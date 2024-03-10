@@ -1,21 +1,13 @@
-<div align="center" style="display: flex; flex-direction: column;  justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
   <img src="https://camo.githubusercontent.com/14b3dea814817c13a461bee1a273ad6c79ca1b01087fd28457c3de207fba7d31/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627273454f314a617942566a612f67697068792e676966" alt="Profile Image">
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding-top: 10px;">
-
-  <p align="center">
+  <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding-top: 10px;">
     <a href="https://discord.gg/mohammedkhan_43213"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="100" height="30"></a>
-  </p>
-  <p align="center">
     <a href="https://instagram.com/mohd_khan09"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="100" height="30"></a>
-  </p>
-  <p align="center">
     <a href="https://linkedin.com/in/mohammed-khan-627402203"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="30"></a>
-  </p>
-  <p align="center">
     <a href="https://x.com/@MohammedKh35842"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=1060&t=st=1710066159~exp=1710066759~hmac=9c7649a97972dc035db247c3eff934f42d4c80708d8947a08f33226145dbae9b" alt="Twitter" width="30" height="30"></a>
-  </p>
+  </div>
 </div>
-</div>
+
 
 
 
