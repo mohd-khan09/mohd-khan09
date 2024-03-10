@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; flex-direction: column;  justify-content: space-between; align-items: center;">
   <img src="https://camo.githubusercontent.com/14b3dea814817c13a461bee1a273ad6c79ca1b01087fd28457c3de207fba7d31/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627273454f314a617942566a612f67697068792e676966" alt="Profile Image">
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; padding-top: 10px;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding-top: 10px;">
 
   <p align="center">
     <a href="https://discord.gg/mohammedkhan_43213"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" width="100" height="30"></a>
