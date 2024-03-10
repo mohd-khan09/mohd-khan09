@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Software Developer @AntStack<br>🌐 Currently Building serverless applications.<br>🌱 Environmentalist and animal lover.<br>🚗 🏍️ Car and bike aficionado, always up for a drive or ride.
+![Profile Image](https://camo.githubusercontent.com/14b3dea814817c13a461bee1a273ad6c79ca1b01087fd28457c3de207fba7d31/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627273454f314a617942566a612f67697068792e676966)
 
-https://camo.githubusercontent.com/14b3dea814817c13a461bee1a273ad6c79ca1b01087fd28457c3de207fba7d31/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f627273454f314a617942566a612f67697068792e676966
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohammedkhan_43213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohd_khan09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-khan-627402203) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohammedKh35842) 
